@@ -1,5 +1,5 @@
 # About Me:
-im currently learning about c++, python, asm and ML<br>
+Im learning C++, Python, ASM, and ML — building projects in cybersecurity, automation, and machine learning fundamentals.<br>
 
 
 # Skills:
